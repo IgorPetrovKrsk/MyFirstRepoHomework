@@ -1,3 +1,6 @@
 Hello World
 
 This is main branch
+
+Mearged commit
+From my-new-branch
